@@ -24,6 +24,7 @@ function App() {
         {manufacturer: 'Mercedes', model: 'e63s'},
         {manufacturer: 'Audi', model: 'rs6'},
         {manufacturer: 'Audi', model: 'rs6'},
+        {manufacturer: 'Audi', model: 'rs6'},
     ];
     return (
         <>
