@@ -19,6 +19,7 @@ function App() {
         {id: 10, name: "Charles", age: 98},
         {id: 11, name: "Christopher", age: 108},
         {id: 12, name: "Vladimir", age: 28},
+        {id: 12, name: "Vladimir", age: 28},
     ]);
     const topCars = [
         {manufacturer: 'BMW', model: 'm5cs'},
